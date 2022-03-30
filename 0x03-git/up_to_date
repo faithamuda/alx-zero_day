@@ -1,1 +1,1 @@
-git pulls
+git pull
